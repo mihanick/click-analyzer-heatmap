@@ -1,0 +1,21 @@
+﻿<root saved="25.04.2013 10:38:40">
+  <doc dwg="" created="25.04.2013 10:26:55" machine="Unknown?" user="Unknown?" platform="Unknown?" system="Microsoft Windows?" />
+  <doc dwg="Без имени0" created="25.04.2013 10:36:37" machine="MIHANICK" user="MCAD\mihanick" platform="nanoCAD СПДС Стройплощадка 4 - не для коммерческого использования" system="Microsoft Windows NT 6.0.6002 Service Pack 2" closed="25.04.2013 10:36:37" edit-time-seconds="0.81615229999999994">
+    <cmd name="NewDocument" status="ended" cursor-x="1282" cursor-y="419" time="25.04.2013 10:26:57" />
+    <cmd name="TipOfDay" status="started" cursor-x="1282" cursor-y="419" time="25.04.2013 10:26:57" />
+    <cmd name="TipOfDay" status="ended" cursor-x="1282" cursor-y="419" time="25.04.2013 10:26:57" />
+    <cmd name="OGPLogEnd" status="started" cursor-x="623" cursor-y="455" time="25.04.2013 10:28:22" />
+    <cmd name="OGPLogEnd" status="ended" cursor-x="623" cursor-y="455" time="25.04.2013 10:28:22" />
+    <cmd name="Rectangle" status="started" cursor-x="14" cursor-y="196" time="25.04.2013 10:28:26" />
+    <cmd name="Rectangle" status="ended" cursor-x="808" cursor-y="514" time="25.04.2013 10:28:27" />
+    <cmd name="Exit" status="started" cursor-x="1672" cursor-y="9" time="25.04.2013 10:29:20" />
+    <cmd name="NewDocument" status="ended" cursor-x="1066" cursor-y="473" time="25.04.2013 10:36:16" />
+    <cmd name="TipOfDay" status="started" cursor-x="1066" cursor-y="473" time="25.04.2013 10:36:16" />
+    <cmd name="TipOfDay" status="ended" cursor-x="1066" cursor-y="473" time="25.04.2013 10:36:16" />
+    <cmd name="Rectangle" status="started" cursor-x="6" cursor-y="199" time="25.04.2013 10:36:23" />
+    <cmd name="Rectangle" status="ended" cursor-x="656" cursor-y="440" time="25.04.2013 10:36:23" />
+    <cmd name="OGPLogToggle" status="started" cursor-x="587" cursor-y="609" time="25.04.2013 10:36:34" />
+    <cmd name="OGPLogToggle" status="ended" cursor-x="587" cursor-y="609" time="25.04.2013 10:36:34" />
+    <cmd name="Exit" status="started" cursor-x="1634" cursor-y="26" time="25.04.2013 10:36:37" />
+  </doc>
+</root>
